@@ -72,4 +72,8 @@ yarn preview
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### GitHub pages 
+See https://chiayaya.github.io/
