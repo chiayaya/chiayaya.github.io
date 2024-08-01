@@ -1,7 +1,10 @@
 <template>
   <div>
-    <div class="flex justify-between items-center">
+    <div class="">
       <h3 class="text-lg font-normal">Hi</h3>
+      <div>
+        <carousel />
+      </div>
       <p class="text-h4 font-normal">
         <NuxtLink to="/order-history">
           <span class="text-sm font-normal text-sm mt-1"></span>
